@@ -117,7 +117,7 @@ class prankCall{
     }
 }
 
-echo "#################################\n# Copyright : @xptra | SGB-Team #\n#################################\n";
+
 echo "?Number\t";
 $no = get();
 $n = new prankCall($no);
